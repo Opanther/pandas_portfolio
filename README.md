@@ -11,8 +11,8 @@ Welcome to my Panda portfolio! I am Tomi, a passionate data analyst with a stron
 ### [Project 1: Government_Corruption](link-to-project-1)
 
 - **Description:** looking at the latest data from Transparency International, via the data at https://images.transparencycdn.org/images/CPI2022_GlobalResultsTrends.xlsx.
-- **Tools:** Specify the tools and technologies used (e.g., Python, Excel).
-- **Skills Applied:** Highlight the skills you utilized during the project (e.g., data cleaning, exploratory data analysis).
+- **Tools:** Python, Excel.
+- **Skills Applied:** Work with excel files, including multi-sheet excel
 
 ### [Project 2: Project Name](link-to-project-2)
 
