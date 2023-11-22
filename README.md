@@ -14,10 +14,10 @@ Welcome to my Panda portfolio! I am Tomi, a passionate data analyst with a stron
 - **Tools:** Python, Excel.
 - **Skills Applied:** Work with excel files, including multi-sheet excel
 
-### [Project 2: Project Name](link-to-project-2)
+### [Project 2: Project Name](pandas_port/Egg_prices)
 
 - **Description:** Briefly describe the project, the problem you aimed to solve, and the data used.
-- **Tools:** Specify the tools and technologies used (e.g., Python, SQL, Excel).
+- **Tools:** Python
 - **Skills Applied:** Highlight the skills you utilized during the project (e.g., data cleaning, exploratory data analysis, machine learning).
 - **Results:** Share any key findings, visualizations, or insights gained.
 
